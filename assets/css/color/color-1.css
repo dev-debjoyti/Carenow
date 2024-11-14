@@ -1,0 +1,12 @@
+:root {
+	--primary-color       : #5300AB !important;
+	--primary-color2      : #1D6D02 !important;
+	--white-color         : #000000 !important;
+	--jost-font           : 'Jost', sans-serif;
+	--rubik-font          : 'Rubik', sans-serif;
+	--font-weight-light   : 300;
+	--font-weight-regular : 400;
+	--font-weight-medium  : 500;
+	--font-weight-semibold: 600;
+	--font-weight-bold    : 700;
+}
